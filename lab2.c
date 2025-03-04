@@ -5,7 +5,7 @@ int function(int x)
 {
 	while (x > 0)
 	{
-		x = x - 2;
+		x = x;
 		//x = function(x); mu mergea
 	}
 	return x;
